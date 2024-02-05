@@ -31,7 +31,7 @@ $(function() {
 		widthSegments: 250,
 		heightSegments: 250,
 		depth: 1500,
-		param: 4,
+		param: 100,
 		filterparam: 1,
 		filter: [ CIRCLE_FILTER ],
 		postgen: [ MOUNTAINS_COLORS ],
